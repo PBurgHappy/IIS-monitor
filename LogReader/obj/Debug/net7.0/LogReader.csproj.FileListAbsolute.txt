@@ -1,0 +1,15 @@
+C:\Users\Piet Burgmans\RiderProjects\LogReader\LogReader\bin\Debug\net7.0\LogReader.exe
+C:\Users\Piet Burgmans\RiderProjects\LogReader\LogReader\bin\Debug\net7.0\LogReader.deps.json
+C:\Users\Piet Burgmans\RiderProjects\LogReader\LogReader\bin\Debug\net7.0\LogReader.runtimeconfig.json
+C:\Users\Piet Burgmans\RiderProjects\LogReader\LogReader\bin\Debug\net7.0\LogReader.dll
+C:\Users\Piet Burgmans\RiderProjects\LogReader\LogReader\bin\Debug\net7.0\LogReader.pdb
+C:\Users\Piet Burgmans\RiderProjects\LogReader\LogReader\obj\Debug\net7.0\LogReader.csproj.AssemblyReference.cache
+C:\Users\Piet Burgmans\RiderProjects\LogReader\LogReader\obj\Debug\net7.0\LogReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piet Burgmans\RiderProjects\LogReader\LogReader\obj\Debug\net7.0\LogReader.AssemblyInfoInputs.cache
+C:\Users\Piet Burgmans\RiderProjects\LogReader\LogReader\obj\Debug\net7.0\LogReader.AssemblyInfo.cs
+C:\Users\Piet Burgmans\RiderProjects\LogReader\LogReader\obj\Debug\net7.0\LogReader.csproj.CoreCompileInputs.cache
+C:\Users\Piet Burgmans\RiderProjects\LogReader\LogReader\obj\Debug\net7.0\LogReader.dll
+C:\Users\Piet Burgmans\RiderProjects\LogReader\LogReader\obj\Debug\net7.0\refint\LogReader.dll
+C:\Users\Piet Burgmans\RiderProjects\LogReader\LogReader\obj\Debug\net7.0\LogReader.pdb
+C:\Users\Piet Burgmans\RiderProjects\LogReader\LogReader\obj\Debug\net7.0\LogReader.genruntimeconfig.cache
+C:\Users\Piet Burgmans\RiderProjects\LogReader\LogReader\obj\Debug\net7.0\ref\LogReader.dll
